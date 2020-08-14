@@ -1,0 +1,4 @@
+建bear時，如果出現bash....錯誤，參考以下網址
+https://github.com/rizsotto/Bear/pull/282
+
+LD_PRELOAD輸入的位址要是絕對的，不能由~開頭
